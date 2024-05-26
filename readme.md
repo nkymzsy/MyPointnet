@@ -1,1 +1,1 @@
-本项目基于pointnet结构对modelnet40数据集进行点云分类的极简实现
+本项目是基于pointnet结构对modelnet40数据集进行点云分类的极简实现
